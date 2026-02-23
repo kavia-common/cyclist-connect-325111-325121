@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/cyclist-connect-325111-325121/bike_connect_frontend"
+}
